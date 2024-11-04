@@ -1,0 +1,35 @@
+*
+{
+     margin: 0;
+     padding: 0;
+     font-family: sans-serif;
+}
+
+.container
+{
+     width: 262px;
+     height: 150px;
+     background-color: rgba(255, 187, 0, 0.646);
+     margin: 20px;
+     padding: 20px;
+     border: none;
+     border-radius: 20px;
+}
+
+.heading
+{
+     font-size: 20px;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+
+.btn
+{
+     padding: 10px;
+     background-color: rgba(30, 210, 63, 0.853);
+     font-size: 14px;
+     font-weight: bolder;
+     margin: 2px;
+     border: none;
+     border-radius: 10px;
+}

@@ -1,0 +1,10 @@
+.nav
+{
+     list-style-type: none; 
+     font-size:2rem ;
+     font-family: sans-serif;
+     display: flex;
+     gap: 30px;
+     background-color: rgba(0, 64, 128, 0.41);
+     
+}

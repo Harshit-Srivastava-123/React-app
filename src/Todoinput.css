@@ -1,0 +1,28 @@
+.todo-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1px;
+}
+
+.input-box {
+  width: 226px;
+  margin: 15px;
+  padding: 10px;
+  font-size: 15px;
+  font-family: sans-serif;
+  border: none;
+  border-radius: 20px;
+}
+
+.add-btn {
+  margin: 5px;
+  padding: 8px;
+  font-size: 15px;
+  font-family: sans-serif;
+  background-color: rgba(0, 0, 255, 0.65);
+  color: white;
+  border: none;
+  border-radius: 18px;
+  width: 35px;
+}
